@@ -9,6 +9,7 @@ namespace DemoMVCApp
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+			#Padma change1
         }
     }
 }
