@@ -9,11 +9,11 @@ namespace DemoMVCApp
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
-<<<<<<< HEAD
+
 			#sWAPNA CHNAGE1
-=======
+
 			#Padma change1
->>>>>>> 34a0601e390697cd575ce1070117a6d470e0a937
+
         }
     }
 }
